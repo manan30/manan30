@@ -14,12 +14,12 @@ I,m a enthusiatic Full Stack Developer working with all kinds of web technologie
 
 <table>
 <tr>
-<td><a href="https://twitter.com/Manan_30"><img src="./twitter.svg" height="24" width="24" alt="Twitter Profile Link"></a></td>
-<td><a href="https://dev.to/manan30"><img src="./dev-dot-to.svg" height="24" width="24" alt="Dev.To Profile Link"></a></td>
-<td><a href="https://github.com/manan30"><img src="./github.svg" height="24" width="24" alt="Github Profile Link"></a></td>
-<td><a href="https://twitter.com/Manan_30"><img src="./instagram.svg" height="24" width="24" alt="Instagram Profile Link"></a></td>
-<td><a href="https://twitter.com/Manan_30"><img src="./linkedin.svg" height="24" width="24" alt="LinkedIn Profile Link"></a></td>
-<td><a href="https://twitter.com/Manan_30"><img src="./medium.svg" height="24" width="24" alt="Medium Profile Link"></a></td>
-<td><a href="https://twitter.com/Manan_30"><img src="./mail-dot-ru.svg" height="24" width="24" alt="Email ID"></a></td>
+<td><a href="https://twitter.com/Manan_30"><img src="https://raw.githubusercontent.com/manan30/manan30/dc5a7b5845d2e75d2c3c32bb04d8c7264537283d/twitter.svg" height="24" width="24" alt="Twitter Profile Link"></a></td>
+<td><a href="https://dev.to/manan30"><img src="https://raw.githubusercontent.com/manan30/manan30/dc5a7b5845d2e75d2c3c32bb04d8c7264537283d/dev-dot-to.svg" height="24" width="24" alt="Dev.To Profile Link"></a></td>
+<td><a href="https://github.com/manan30"><img src="https://raw.githubusercontent.com/manan30/manan30/dc5a7b5845d2e75d2c3c32bb04d8c7264537283d/github.svg" height="24" width="24" alt="Github Profile Link"></a></td>
+<td><a href="https://twitter.com/Manan_30"><img src="https://raw.githubusercontent.com/manan30/manan30/dc5a7b5845d2e75d2c3c32bb04d8c7264537283d/instagram.svg" height="24" width="24" alt="Instagram Profile Link"></a></td>
+<td><a href="https://twitter.com/Manan_30"><img src="https://raw.githubusercontent.com/manan30/manan30/dc5a7b5845d2e75d2c3c32bb04d8c7264537283d/linkedin.svg" height="24" width="24" alt="LinkedIn Profile Link"></a></td>
+<td><a href="https://twitter.com/Manan_30"><img src="https://raw.githubusercontent.com/manan30/manan30/dc5a7b5845d2e75d2c3c32bb04d8c7264537283d/medium.svg" height="24" width="24" alt="Medium Profile Link"></a></td>
+<td><a href="https://twitter.com/Manan_30"><img src="https://raw.githubusercontent.com/manan30/manan30/dc5a7b5845d2e75d2c3c32bb04d8c7264537283d/mail-dot-ru.svg" height="24" width="24" alt="Email ID"></a></td>
 </tr>
 </table>
