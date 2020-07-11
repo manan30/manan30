@@ -5,10 +5,10 @@
 
 ## A little bit about me
 
-I,m a enthusiatic Full Stack Developer working with all kinds of web technologies. I am passionate about working with frontend technologies and tools and always keep on learning new things. I also like to read about deepest mysteries of the universe and try to ponder about abstract things. I'm also an aspiring chef and love to cook soul satisfying and delightful recipes. I love contributing back to the open-source community. I am also open to doing freelance projects, so please reach out to me if you are interested in creating web apps of any kind.
+I,m an enthusiastic Full Stack Developer working with all kinds of web technologies. I am passionate about working with frontend technologies and tools and always keep on learning new things. I also like to read about the deepest mysteries of the universe and try to ponder abstract things. I'm also an aspiring chef and love to cook soul-satisfying and delightful recipes. I love contributing back to the open-source community. I am also open to doing freelance projects, so please reach out to me if you are interested in creating web apps of any kind.
 
-- 🔭 I’m currently working on React, GraphQL, Firebase, Node, JavaScript, HTML5, CSS3, Gatsby
-- 👯 I’m looking to collaborate on JavaScript projects
+- 🔭 Currently working on React, GraphQL, Firebase, Node, JavaScript, HTML5, CSS3, Gatsby
+- 👯 Looking to collaborate on JavaScript projects
 
 ### Here are the places you can find me on the internet
 
