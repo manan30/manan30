@@ -11,7 +11,7 @@ I,m a enthusiatic Full Stack Developer working with all kinds of web technologie
 - 👯 I’m looking to collaborate on JavaScript projects
 
 ### Here are the places you can find me on the internet
-<a href="https://twitter.com/Manan_30"><img src="./twitter.svg" height="24" width="24" alt="Twitter Profile Link"></a>
+<a href="https://twitter.com/Manan_30"><img style="margin-right: 10px" src="./twitter.svg" height="24" width="24" alt="Twitter Profile Link"></a>
 <a href="https://dev.to/manan30"><img src="./dev-dot-to.svg" height="24" width="24" alt="Dev.To Profile Link"></a>
 <a href="https://github.com/manan30"><img src="./github.svg" height="24" width="24" alt="Github Profile Link"></a>
 <a href="https://twitter.com/Manan_30"><img src="./instagram.svg" height="24" width="24" alt="Instagram Profile Link"></a>
