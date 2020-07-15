@@ -23,3 +23,7 @@ I'm an enthusiastic Full Stack Developer working with all kinds of web technolog
 <td><a href="https://twitter.com/Manan_30"><img src="https://raw.githubusercontent.com/manan30/manan30/dc5a7b5845d2e75d2c3c32bb04d8c7264537283d/mail-dot-ru.svg" height="24" width="24" alt="Email ID"></a></td>
 </tr>
 </table>
+
+[![Manan's github stats](https://github-readme-stats.vercel.app/api?username=manan30&title_color=007fff&text_color=f3f3f3&bg_color=283044)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+![visitors](https://manan30-visitor-badge.glitch.me/badge?page_id=page.id)
