@@ -24,6 +24,6 @@ I'm an enthusiastic Full Stack Developer working with all kinds of web technolog
 </tr>
 </table>
 
-[![Manan's github stats](https://github-readme-stats.vercel.app/api?username=manan30&title_color=007fff&text_color=f3f3f3&bg_color=283044)]
+![Manan's github stats](https://github-readme-stats.vercel.app/api?username=manan30&title_color=007fff&text_color=f3f3f3&bg_color=283044)
 <br />
 ![visitors](https://manan30-visitor-badge.glitch.me/badge?page_id=page.id)
