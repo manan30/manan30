@@ -1,8 +1,5 @@
 # Hi there 👋, thanks for stopping by!
 
-![Profile Image](https://raw.githubusercontent.com/manan30/manan30/master/Github%20Image.png)
-
-
 ## A little bit about me
 
 I'm an enthusiastic Full Stack Developer working with all kinds of web technologies. I am passionate about working with frontend technologies and tools and always keep on learning new things. I also like to read about the deepest mysteries of the universe and try to ponder abstract things. I'm also an aspiring chef and love to cook soul-satisfying and delightful recipes. I love contributing back to the open-source community. I am also open to doing freelance projects, so please reach out to me if you are interested in creating web apps of any kind.
