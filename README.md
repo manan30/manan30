@@ -4,7 +4,7 @@ Hi 👋 My name is Manan Joshi
 Full Stack Developer
 --------------------
 
-* 🌍  I'm based in Naperville, Illinois
+* 🌍  I'm based in Chicago, Illinois
 * 🖥️  See my portfolio at [mananjoshi.me](http://mananjoshi.me)
 * ✉️  You can contact me at [mananjoshi1995@gmail.com](mailto:mananjoshi1995@gmail.com)
 * 🤝  I'm open to collaborating on JavaScript/TypeScript projects
