@@ -4,16 +4,10 @@ Hi 👋 My name is Manan Joshi
 Full Stack Developer
 --------------------
 
-* 🌍  I'm based in Chicago, Illinois
-* 🖥️  See my portfolio at [mananjoshi.me](http://mananjoshi.me)
-* ✉️  You can contact me at [mananjoshi1995@gmail.com](mailto:mananjoshi1995@gmail.com)
-* 🤝  I'm open to collaborating on JavaScript/TypeScript projects
-
-<a href="https://www.twitter.com/manan__joshi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/manan__joshi?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/manan30" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/manan30?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
+* 🌍  Based in Chicago, Illinois
+* 🖥️  Check out my portfolio at [mananjoshi.me](http://mananjoshi.me)
+* ✉️  You can contact me at [hey@mananjoshi.me](mailto:hey@mananjoshi.me)
+* 🤝  Open to collaborating on JavaScript/TypeScript projects
 
 ### Socials
 
