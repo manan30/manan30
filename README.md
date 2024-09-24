@@ -1,8 +1,6 @@
-Hi 👋 My name is Manan Joshi
-============================
+# Hi 👋 My name is Manan Joshi
 
-Full Stack Developer
---------------------
+### Full Stack Developer
 
 * 🌍  Based in Chicago, Illinois
 * 🖥️  Check out my portfolio at [mananjoshi.me](http://mananjoshi.me)
