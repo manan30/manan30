@@ -2,7 +2,7 @@
 
 ### Full Stack Developer
 
-* 🌍  Based in Chicago, Illinois
+* 🌍  Based in Lawrenceville, Georgia
 * 🖥️  Check out my portfolio at [mananjoshi.me](http://mananjoshi.me)
 * ✉️  You can contact me at [hey@mananjoshi.me](mailto:hey@mananjoshi.me)
 * 🤝  Open to collaborating on JavaScript/TypeScript projects
